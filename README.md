@@ -10,7 +10,7 @@
 Just `cd` into your Node app's directory, and run:
 
 ```shell
-$ curl -so- https://raw.githubusercontent.com/MeLlamoPablo/nnny/master/nnny.sh | sudo bash
+$ curl -so- https://raw.githubusercontent.com/MeLlamoPablo/nnny/v1.0.0/nnny.sh | sudo bash
 ```
 
 ## In what ways is it opinionated?
